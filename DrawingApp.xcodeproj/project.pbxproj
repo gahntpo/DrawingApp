@@ -17,8 +17,8 @@
 		178C1F5626721E60006FF2D6 /* Line.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178C1F5426721E60006FF2D6 /* Line.swift */; };
 		178C1F5826721E6A006FF2D6 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178C1F5726721E6A006FF2D6 /* DrawingView.swift */; };
 		178C1F5926721E6A006FF2D6 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178C1F5726721E6A006FF2D6 /* DrawingView.swift */; };
-		178C1F5C26721F5A006FF2D6 /* Simulator Screen Recording - iPhone 11 - 2021-06-10 at 13.21.53.gif in Resources */ = {isa = PBXBuildFile; fileRef = 178C1F5B26721F5A006FF2D6 /* Simulator Screen Recording - iPhone 11 - 2021-06-10 at 13.21.53.gif */; };
-		178C1F5D26721F5A006FF2D6 /* Simulator Screen Recording - iPhone 11 - 2021-06-10 at 13.21.53.gif in Resources */ = {isa = PBXBuildFile; fileRef = 178C1F5B26721F5A006FF2D6 /* Simulator Screen Recording - iPhone 11 - 2021-06-10 at 13.21.53.gif */; };
+		178C1F5C26721F5A006FF2D6 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 178C1F5B26721F5A006FF2D6 /* demo.gif */; };
+		178C1F5D26721F5A006FF2D6 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 178C1F5B26721F5A006FF2D6 /* demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +29,7 @@
 		178C1F5126721E28006FF2D6 /* CColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CColorPicker.swift; sourceTree = "<group>"; };
 		178C1F5426721E60006FF2D6 /* Line.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Line.swift; sourceTree = "<group>"; };
 		178C1F5726721E6A006FF2D6 /* DrawingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
-		178C1F5B26721F5A006FF2D6 /* Simulator Screen Recording - iPhone 11 - 2021-06-10 at 13.21.53.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Simulator Screen Recording - iPhone 11 - 2021-06-10 at 13.21.53.gif"; sourceTree = "<group>"; };
+		178C1F5B26721F5A006FF2D6 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +83,7 @@
 		178C1F5A26721F54006FF2D6 /* image */ = {
 			isa = PBXGroup;
 			children = (
-				178C1F5B26721F5A006FF2D6 /* Simulator Screen Recording - iPhone 11 - 2021-06-10 at 13.21.53.gif */,
+				178C1F5B26721F5A006FF2D6 /* demo.gif */,
 			);
 			path = image;
 			sourceTree = "<group>";
@@ -168,7 +168,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				178C1F4726721DFF006FF2D6 /* Assets.xcassets in Resources */,
-				178C1F5C26721F5A006FF2D6 /* Simulator Screen Recording - iPhone 11 - 2021-06-10 at 13.21.53.gif in Resources */,
+				178C1F5C26721F5A006FF2D6 /* demo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,7 +177,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				178C1F4826721DFF006FF2D6 /* Assets.xcassets in Resources */,
-				178C1F5D26721F5A006FF2D6 /* Simulator Screen Recording - iPhone 11 - 2021-06-10 at 13.21.53.gif in Resources */,
+				178C1F5D26721F5A006FF2D6 /* demo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
